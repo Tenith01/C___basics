@@ -1,0 +1,3 @@
+/home/tenith/CLionProjects/C++ basics/cmake-build-debug/CMakeFiles/C___basics.dir
+/home/tenith/CLionProjects/C++ basics/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tenith/CLionProjects/C++ basics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
